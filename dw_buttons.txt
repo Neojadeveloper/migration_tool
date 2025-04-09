@@ -1,0 +1,23 @@
+60|actions|Действия|Амаллар|Amallar|Operations
+60|loan_action|Действия над кредитами|Кредитлар устида амаллар|Kreditlar ustida amallar|Operations on loans
+60|adjust|Синхронизация состояний|?олатларни мослаштириш|Holatlarni moslashtirish|State Synchronization
+60|close|Закрытие кредита|Кредитни ёпиш|Kreditni yopish|Closing credits
+60|set_sign_ebrd|Установ. признак выдачи отделом Микрофинанс.|Микромолиялаш бўлими томонидан берилиши белгисини ўрнатиш|Mikromoliyalash bo‘limi tomonidan berilishi belgisini o‘rnatish|SET. sign extradition Microfinance Department.
+60|restore|Возврат в состояние "Текущая ссуда"|"Жорий кредит" ?олатига ?айтиш|"Joriy kredit" holatiga qaytarish|Return to a state of "Current loan"
+60|limits|Лимиты|Лимитлар|Limitlar|Limit
+60|request_limits|Запрос лимита|Лимит сўрови|Limit so`rovi|Query limit
+60|others|Другие|Бош?алар|Boshqalar|Others
+60|prolong_his|История пролонгации|Муддатини узайтириш тарихи|Muddatini uzaytirish tarixi|History of prolongation
+60|growing_his|История не наращивания|Ўстирмаслик тарихи|O`stirmaslik tarixi|History of not increasing the reporting
+60|trial_his|История суд. разбир.|Суд му&#1203;окамаси тарихи|Sud muhokamasi tarixi|The history of the court. Analyzing.
+60|transfer_hNB|Перевод в модуль "Учет пробленных кредитов"|"Muvaffaqiyatsiz kreditlar hisobi" moduliga o‘tkazish|"Муваффа?иятсиз кредитлар ?исоби" модулига ўтказиш|Transfer to "Accounting for failed loans" module
+60|overdraft|Овердрафт|Овердрафт|Overdraft|Overdraft
+60|show_overdraft_graph|Лимит|Лимит|Limit|Limit
+60|cancel_bs_count|Списание долгов со страхового полиса (Benefit Supreme)|Benefit Supreme|Benefit Supreme|Benefit Supreme
+60|documents|Документы|?ужжатлар|Hujjatlar|Documents
+60|contract|Договор|Шартнома|Shartnoma|Contract
+60|guarantors|Договор поручительства|Кафиллик шартномаси|Kafillik shartnomasi|Guarantee agreement
+60|opComp|Реестр компенсаций|Компенсациялар реестри|Kompensatsiyalar reyestri|Compensation Register
+60|oferta|Договор оферты|Оферта|Ofertalar|Offers
+60|warning|Письмо оповещение|Огохлантириш хати|Ogohlantirish xati|Warning mail
+60|famDocs|Ссылки на семейные документы|Оилавий ?ужжатларга ?аволалар|Oilaviy hujjatlarga havolalar|References to family documents

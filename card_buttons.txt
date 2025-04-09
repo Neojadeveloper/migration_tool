@@ -1,0 +1,428 @@
+60|actions|Действия над кредитами|Кредитлар устида амаллар|Kreditlar ustida amallar|Operations on loans
+60|loan_action|Действия над кредитами|Кредитлар устида амаллар|Kreditlar ustida amallar|Operations on loans
+60|adjust|Синхронизация состояний|&#1202;олатларни мослаштириш|Holatlarni moslashtirish|State Synchronization
+60|close|Закрытие кредита|Кредитни ёпиш|Kreditni yopish|Closing credits
+60|set_sign_ebrd|Установ. признак выдачи отделом Микрофинанс.|Микромолиялаш бўлими томонидан берилиши белгисини ўрнатиш|Mikromoliyalash bo`limi tomonidan berilishi belgisini o`rnatish|SET. sign extradition Microfinance Department.
+60|restore|Возврат в состояние 'Текущая ссуда'|&#1202;озирги крэдит &#1203;олатига &#1179;аытис&#1203; '|Hozirgi kredit holatiga qaytish '|Return to a state of 'Current loan'
+60|limits|Лимиты|Лимитлар|Limitlar|Limit
+60|request_limits|Запрос лимита|Лимит сўрови|Limit so`rovi|Query limit
+60|others|Другое|Бос&#1203;&#1179;а|Boshqa|Other
+60|prolong_his|История пролонгации|Муддатини узайтириш тарихи|Muddatini uzaytirish tarixi|History of prolongation
+60|growing_his|История не наращивания|Ўстирмаслик тарихи|O`stirmaslik tarixi|History of not increasing the reporting
+60|trial_his|История суд. разбир.|Суд му&#1203;окамаси тарихи|Sud muhokamasi tarixi|The history of the court. Analyzing.
+60|transfer_hNB|Перевод в модуль &quot;Учет пробленных кредитов&quot;|Модулга ва &#1179;уватни &#1203;исобга олис&#1203;, муаммоларни &#1203;исобга олис&#1203; ва котировка;|Modulga va quvatni hisobga olish, muammolarni hisobga olish va kotirovka;|Transfer to the module & quot; taking into account problem loans & quot;
+60|overdraft|Овердрафт|Овэрдрафт|Overdraft|Overdraft
+60|show_overdraft_graph|Лимит|Лимит|Limit|Limit
+60|cancel_bs_count|Списание долгов со страхового полиса (Benefit Supreme)|Суг'урта полисининг &#1179;арзларини то'лас&#1203; (ыу&#1179;ори даражадаги фоыда кэлтиради)|Sug'urta polisining qarzlarini to'lash (yuqori darajadagi foyda keltiradi)|Writing off debts from the insurance policy (Benefit Supreme)
+60|documents|Документы|&#1202;ужжатлар|Hujjatlar|Documents
+60|contract|Договор|С&#1203;артнома|Shartnoma|Treaty
+60|guarrantors|Договор поручительства|Кафолат с&#1203;артномаси|Kafolat shartnomasi|Guarantee agreement
+60|opComp|Реестр компенсаций|Компэнсатсиыа рэыэстри|Kompensatsiya reyestri|Register of compensation
+60|oferta|Договор оферты|С&#1203;артнома бэрис&#1203; с&#1203;артномаси|Shartnoma berish shartnomasi|Offer agreement
+60|warning|Письмо оповещение|Огохлантириш хати|Ogohlantirish xati|Warning mail
+60|famDocs|Ссылки на семейные документы|Оилавиы &#1203;ужжатларга &#1203;аволалар|Oilaviy hujjatlarga havolalar|Links to family documents
+60|monitoring|Мониторинг|Мониторинг|Monitoring|Monitoring
+60|showMonitoringOption|Акт мониторинга|Мониторинг &#1203;аракати|Monitoring harakati|Act of monitoring
+60|showMOptionIpoteka|Мониторинг ипотеки|Ипотека мониторинги|Ipoteka monitoringi|Monitoring
+60|modifyLnState|Выполнить|Бажариш|Bajarish|Implement
+60|btnContract|Договор|С&#1203;артнома|Shartnoma|Treaty
+60|btnAddChildLoan|Добавить дочерний договор|С&#1203;ахсиы с&#1203;артнома &#1179;о'с&#1203;инг|Shaxsiy shartnoma qo'shing|Add a subsidiary agreement
+60|btnOffers|Оферты|Таклифлар|Takliflar|Offers
+60|btn_back|Назад|Ор&#1179;ага &#1179;аытис&#1203;|Orqaga qaytish|Back
+62|save|Сохранить|Са&#1179;лаш|Saqlash|Save
+62|file|Документы|&#1203;ужжатлар|Hujjatlari|Documents
+62|history|------------* История изменения договора *------------|&quot;------------* Шартноманинг ўзгариш тарихи *------------&quot;|&quot;------------* Shartnomaning o`zgarish tarixi *------------&quot;|*-----------* History of changes of the Treaty *------------*
+1892|save|Сохранить|Саклаш|Saqlash|Save
+1892|exit|Закрыть|„и?иш|Chi?ish|Exit
+620|btn_add|Добавить|&#1178;ўшиш|Qo`shish|Add
+620|btn_edit|Изменить|Ўзгартириш|O`zgartirish|Change
+620|btn_del|Удалить|Йў&#1179; &#1179;илиш|Yo`q qilish|Delete
+63|choose|Действия|Амаллар|Amallar|Actions
+63|rep_acc_movem|Движение счета|&#1202;исобвара&#1179; &#1203;аракати|Hisobvaraq harakati|Account movements
+63|action|Действия|Амаллар|Amallar|Actions
+63|auto_attachment|Автозакрепление|Автобо&#1171;лаш|Avtobog`lash|Auto Fixing
+63|acc_account|Добавить|&#1178;ўшиш|Qo`shish|Add
+63|edit_account|Изменить|Ўзгартириш|O`zgartirish|Change
+63|delete_account|Удалить|Йў&#1179; &#1179;илиш|Yo`q qilish|Delete
+63|reassign_account|Переназначить|&#1178;айта тайинлаш|Qayta tayinlash|Reassign
+63|others|Другое|Бошка|Boshqa|Other
+63|rep_acc_change_log|Протокол изменений|Ўзгаришлар баённомаси|O`zgarishlar bayonnomasi|Pratocol of changing
+63|rep_acc_his|История|Тарих|Tarix|History
+63|unpayed_bill|Незакрепленные счета|Оc&#1203;илмаган &#1203;исоблар|Ochilmagan hisoblar|Unattached accounts
+63|ticket|Квитанция|Квитансиыа|Kvitansiya|Receipt
+63|review_k2|Oтзыв|Бир от|Bir ot|Otvy
+63|chooseActionBtn|Выполнить|Бажариш|Bajarish|Implement
+90|deleteClaim|Удалить|Йў&#1179; &#1179;илиш|Yo`q qilish|Delete
+90|btnDoc|Заявление на кредит|Крэдит олис&#1203; уc&#1203;ун ариза|Kredit olish uchun ariza|Application for a loan
+90|btnSend|Заявка на открытие депозита|Омонатни оc&#1203;ис&#1203; уc&#1203;ун ариза|Omonatni ochish uchun ariza|Application for opening a deposit
+94|addCoborrower|Добавить|&#1178;о'с&#1203;мо&#1179;|Qo'shmoq|Add
+94|editCoborrower|Изменить|О'згарис&#1203;|O'zgarish|Change
+94|deleteCoborrower|Удалить|Йў&#1179; &#1179;илиш|Yo`q qilish|Delete
+93|btnSave|Сохранить|Са&#1179;лаш|Saqlash|Save
+93|customerType|Открытие нового клиента в НИББД|НИББДда янги мижоз очилиши|NIBBDda yangi mijoz ochilishi|Opening a new customer in NIIBD
+93|syncClient|Обновить инфо о клиенте|Мижоз &#1203;а&#1179;ида маълумотни янгиланг|Mijoz haqida ma`lumotni yangilang|Update client info
+93|print|Печать|Босмалаш|Bosmalash|Print
+93|dateModify|------------* История изменения заявки *------------|------------* Буюртманинг ўзгариш тарихи *------------|------------* Buyurtmaning o`zgarish tarixi *------------|------------History of changes------------
+188|save|Сохранить|Са&#1179;лаш|Saqlash|Save
+188|files|Документы|&#1203;ужжатлар|Hujjatlari|Documents
+188|check_account|Движения счетов|?исоблар ?аракати|Hisoblar harakati|Accounts movements
+188|dateModify|------------* История изменения заявки *------------|------------* Буюртманинг ўзгариш тарихи *------------|------------* Buyurtmaning o`zgarish tarixi *------------|------------History of changes------------
+188|action_id|Действия над анкетой|Кредитлар устида амаллар|Kreditlar ustida amallar|Operations on loans
+188|blank_action|Действия над анкетой|Кредитлар устида амаллар|Kreditlar ustida amallar|Operations on loans
+188|sync_client_group|Обновить инфо о клиента|Мижоз &#1203;а&#1179;ида маълумотни янгиланг|Mijoz haqida ma`lumotni yangilang|Update client info
+188|sync_client|Обновить инфо о клиента|Мижоз &#1203;а&#1179;ида маълумотни янгиланг|Mijoz haqida ma`lumotni yangilang|Update client info
+188|btnExecute|Выполнить|Бажариш|Bajarish|Complete
+187|action|Действия над анкетa|Кредитлар устида амаллар|Kreditlar ustida amallar|Operations on loans
+187|group_blank_detail|Детали анкет|Анкета тафсилотлари|Anketa tafsilotlari|Questionnaire details
+187|blank_detail|Детали анкет|Анкета тафсилотлари|Anketa tafsilotlari|Questionnaire details
+187|protocol|Протокол|Протокол|Protokol|Protocol
+187|all|Все анкеты|Барc&#1203;а профиллар|Barcha profillar|All profiles
+187|passport_pro|Паспорт проекта|Лоыи&#1203;анинг паспорти|Loyihaning pasporti|Passport of the project
+187|report_variables|Ввод данных для Паспорта проекта|Лоыи&#1203;а паспорти уc&#1203;ун ма'лумотларни киритис&#1203;|Loyiha pasporti uchun ma'lumotlarni kiritish|Entering data for project passport
+187|op2|Основные показатели клиента|Мижознинг асосиы ко'рсаткиc&#1203;лари|Mijozning asosiy ko'rsatkichlari|The main indicators of the client
+187|client_acc_bal|Основные показатели клиента|Мижознинг асосиы ко'рсаткиc&#1203;лари|Mijozning asosiy ko'rsatkichlari|The main indicators of the client
+187|client_fin_bal|Финансовые показатели клиента|Мижознинг молиыавиы ко'рсаткиc&#1203;лари|Mijozning moliyaviy ko'rsatkichlari|Client's financial indicators
+187|class_cred|Основные коэффициенты кредитоспособности|Крэдит либосининг асосиы коэффитсиэнтлари|Kredit libosining asosiy koeffitsientlari|The main coefficients of creditworthiness
+187|guarantor_acc_bal|Основные показатели поручителя|Кафорнинг асосиы ко'рсаткиc&#1203;лари|Kaforning asosiy ko'rsatkichlari|The main indicators of the guarantor
+187|guarantor_fin_bal|Финансовые показатели поручителя|Кафорнинг молиыавиы ко'рсаткиc&#1203;лари|Kaforning moliyaviy ko'rsatkichlari|The financial indicators of the guarantor
+187|workload_emp|Загруженность сотруднтков|Ходимнинг ис&#1203; ыуки|Xodimning ish yuki|Employee workload
+187|related|Связанные компании|Тэгис&#1203;ли компаниыалар|Tegishli kompaniyalar|Related companies
+187|btnProcess|Выполнить|Бажариш|Bajarish|Implement
+204|action|Действия над анкета|Анкета устида амаллар|Anketa ustida amallar|Survey actions
+204|blank_detail_group|Детали анкет|Профиллар тафсилотлари|Profillar tafsilotlari|Details of profiles
+204|blank_detail|Детали анкет|Профиллар тафсилотлари|Profillar tafsilotlari|Details of profiles
+204|protocol|Протокол|Протокол|Protokol|Protocol
+204|resource|Ресурс|Рэсурс|Resurs|Resource
+204|confirm_resource|Подтв. ресурсов при выдаче|Сув остида.Озод бо'лганда рэсурслар|Suv ostida.Ozod bo'lganda resurslar|Underwater.resources when issuing
+204|cancel_resource|Отменить подтв. ресурсов при выдаче|Иc&#1203;ки киыимни бэкор &#1179;илинг.Озод бо'лганда рэсурслар|Ichki kiyimni bekor qiling.Ozod bo'lganda resurslar|Cancel underwear.resources when issuing
+204|blank_detail_1|Детали анкет|Профиллар тафсилотлари|Profillar tafsilotlari|Details of profiles
+204|protocol_1|Протокол|Протокол|Protokol|Protocol
+204|reassignment|Переназначить|&#1178;аыта таыинлас&#1203;|Qayta tayinlash|To reassign
+204|client_acc_bal_group|Основные показатели клиента|Мижознинг асосиы ко'рсаткиc&#1203;лари|Mijozning asosiy ko'rsatkichlari|The main indicators of the client
+204|client_acc_bal|Основные показатели клиента|Мижознинг асосиы ко'рсаткиc&#1203;лари|Mijozning asosiy ko'rsatkichlari|The main indicators of the client
+204|client_fin_bal|Финансовые показатели клиента|Мижознинг молиыавиы ко'рсаткиc&#1203;лари|Mijozning moliyaviy ko'rsatkichlari|Client's financial indicators
+204|guarantor_fin_bal|Финансовые показатели поручителя|Кафорнинг молиыавиы ко'рсаткиc&#1203;лари|Kaforning moliyaviy ko'rsatkichlari|The financial indicators of the guarantor
+204|class_cred|Основные коэффициенты кредитоспособности|Крэдит либосининг асосиы коэффитсиэнтлари|Kredit libosining asosiy koeffitsientlari|The main coefficients of creditworthiness
+204|guarantor_acc_bal|Основные показатели поручителя|Кафорнинг асосиы ко'рсаткиc&#1203;лари|Kaforning asosiy ko'rsatkichlari|The main indicators of the guarantor
+204|passport_pro|Паспорт проекта|Лоыи&#1203;анинг паспорти|Loyihaning pasporti|Passport of the project
+204|workload_emp|Загруженность сотрудников|Ходимнинг ис&#1203; ыуки|Xodimning ish yuki|Employee workload
+204|related|Связанные компании|Тэгис&#1203;ли компаниыалар|Tegishli kompaniyalar|Related companies
+204|btnProcess|Выполнить|Бажариш|Bajarish|Implement
+96|btnAdd|Добавить|&#1178;ўшиш|Qo`shish|Add
+96|btnEdit|Изменить|Ўзгартириш|O`zgartirish|Change
+96|btnDel|Удалить|Йў&#1179; &#1179;илиш|Yo`q qilish|Delete
+98|submit|Сохранить|Са&#1179;лаш|Saqlash|Save
+98|btnProtocol|Протокол|Баённома|Bayonnoma|Protocol
+132|addBtn|Добавить|&#1178;ўшиш|Qo`shish|Add
+132|editBtn|Изменить|Ўзгартириш|O`zgartirish|Change
+132|viewBtn|Просмотр|Кўриш|Ko`rish|Review
+132|delBtn|Удалить|Йў&#1179; &#1179;илиш|Yo`q qilish|Delete
+256|add|Добавить|Кушиш|Qo'shish|Add
+256|edit|Изменить|Узгартириш|O'zgartirish|Edit
+962|addBtn|Добавить|&#1178;ўшиш|Qo`shish|Add
+962|editBtn|Изменить|Узгартириш|O`zgartirish|Change
+962|delBtn|Удалить|Йў&#1179; &#1179;илиш|Yo`q qilish|Delete
+926|btnAdd|Добавить|Кушиш|Qo'shish|Add
+926|btnEdit|Изменить|Узгартириш|O'zgartirish|Edit
+926|btnDel|Удалить|Учириш|O'chirish|Delete
+1211|btnAdd|Добавить|Кушиш|Qo'shish|Add
+1211|btnEdit|Изменить|Узгартириш|O'zgartirish|Edit
+1211|btnDel|Удалить|Учириш|O'chirish|Delete
+960|addBtn|Добавить|&#1178;ўшиш|Qo`shish|Add
+960|editBtn|Просмотр|Просмотр|Ko`rish|Change
+960|delBtn|Удалить|Йў&#1179; &#1179;илиш|Yo`q qilish|Delete
+234|btnAdd|Добавить|Кушиш|Qo'shish|Add
+234|btnEdit|Изменить|Узгартириш|O'zgartirish|Edit
+234|btnDel|Удалить|Учириш|O'chirish|Delete
+233|btnAdd|Добавить|Кушиш|Qo'shish|Add
+233|btnEdit|Изменить|Узгартириш|O'zgartirish|Edit
+233|btnDel|Удалить|Учириш|O'chirish|Delete
+232|btnAdd|Добавить|Кушиш|Qo'shish|Add
+232|btnEdit|Изменить|Узгартириш|O'zgartirish|Edit
+232|btnDel|Удалить|Учириш|O'chirish|Delete
+231|btnAdd|Добавить|Кушиш|Qo'shish|Add
+231|btnEdit|Изменить|Узгартириш|O'zgartirish|Edit
+231|btnDel|Удалить|Учириш|O'chirish|Delete
+219|btnAdd|Добавить|Кушиш|Qo'shish|Add
+219|btnEdit|Изменить|Узгартириш|O'zgartirish|Edit
+219|btnDel|Удалить|Учириш|O'chirish|Delete
+969|addBtn|Добавить|&#1178;ўшиш|Qo`shish|Add
+969|editBtn|Изменить|Узгартириш|O`zgartirish|Change
+969|delBtn|Удалить|Йў&#1179; &#1179;илиш|Yo`q qilish|Delete
+2210|btnAdd|Добавить|Кушиш|Qo'shish|Add
+2210|btnChangeState|Актив / Пассив |Активлар / пассив|Aktivlar / passiv|Asset / passive
+2210|btnDel|Удалить|Учириш|O'chirish|Delete
+2211|btnAdd|Добавить|Кушиш|Qo'shish|Add
+2211|btnEdit|Изменить|Узгартириш|O'zgartirish|Edit
+2211|btnDel|Удалить|Учириш|O'chirish|Delete
+190|btnAdd|Добавить|&#1178;о'с&#1203;мо&#1179;|Qo'shmoq|Add
+190|btnEdit|Изменить|О'згарис&#1203;|O'zgarish|Change
+190|btnDelete|Удалить|О'c&#1203;ирмо&#1179;|O'chirmoq|Delete
+193|btnAdd|Добавить|&#1178;о'с&#1203;мо&#1179;|Qo'shmoq|Add
+193|btnEdit|Изменить|О'згарис&#1203;|O'zgarish|Change
+193|btnDelete|Удалить|О'c&#1203;ирмо&#1179;|O'chirmoq|Delete
+192|btnAdd|Добавить|&#1178;о'с&#1203;мо&#1179;|Qo'shmoq|Add
+192|btnEdit|Изменить|О'згарис&#1203;|O'zgarish|Change
+192|btnDelete|Удалить|О'c&#1203;ирмо&#1179;|O'chirmoq|Delete
+194|department_id|- - - Выберете действие - - -|- - - &#1202;аракатни танланг - - -|- - - Harakatni tanlang - - -|- - - choose the action - - -
+194|bind|Закрепить отрасль|Саноатни тузатис&#1203; уc&#1203;ун|Sanoatni tuzatish uchun|To fix the industry
+191|btnAdd|Добавить|&#1178;о'с&#1203;мо&#1179;|Qo'shmoq|Add
+191|btnEdit|Изменить|О'згарис&#1203;|O'zgarish|Change
+191|btnDelete|Удалить|О'c&#1203;ирмо&#1179;|O'chirmoq|Delete
+195|btnAdd>|Добавить|&#1178;о'с&#1203;мо&#1179;|Qo'shmoq|Add
+195|btnEdit>|Изменить|О'згарис&#1203;|O'zgarish|Change
+195|btnDel>|Удалить|О'c&#1203;ирмо&#1179;|O'chirmoq|Delete
+1190|btnSwitchOn|Выполнить|Ижро этмо&#1179;|Ijro etmoq|Perform
+106|approve|Утвердить|Тасди&#1179;лаш|Tasdiqlash|Approve
+106|loanInfo|Общая информация по ссуде|Ссуда &#1203;а&#1179;ида умумий маълумотлар|Ssuda haqida umumiy ma`lumotlar|General information on the loan
+106|admissionHis|История утверждения|Тасди&#1179;лаш тарихи|Tasdiqlash tarixi|History of approval
+107|btnAdd|Добавить|&#1178;ўшиш|Qo`shish|Add
+107|btnEdit|Изменить|О'згарис&#1203;|O'zgarish|Изменить
+107|btnDel|Удалить|О'c&#1203;ирмо&#1179;|O'chirmoq|Delete
+181|actions>|- - - - Выберете действие - - - -|- - - - - &#1202;аракатни танланг - - -|- - - - - Harakatni tanlang - - -|- - - - choose the action - - - -
+181|add|Добавить|&#1178;о'с&#1203;мо&#1179;|Qo'shmoq|Add
+181|edit|Редактировать|Та&#1203;рирламо&#1179;|Tahrirlamoq|Edit
+181|setting|Настройка|Созлас&#1203;|Sozlash|Settings
+181|accessFilial|Закрепить филиал|Филиални тузатинг|Filialni tuzating|Закрепить филиал
+181|transit|Последовательность|Последовательность|Последовательность|Subsequence
+181|transitsСopy|Переброска последовательности|Переброска последовательности|Переброска последовательности|Crossing the sequence
+181|duplicate|Создать копию|Нусхасини ыаратинг|Nusxasini yarating|Create a copy
+181|offer|Закрепить офферту|Закрепить офферту|Закрепить офферту|Fix the offfer
+181|templates|Шаблоны|С&#1203;аблонлар|Shablonlar|Templates
+181|addGroup|Добавить группа|Гуру&#1203;ни &#1179;о'с&#1203;инг|Guruhni qo'shing|Добавить группа
+181|admSubSchot|Суб счета|Пастки &#1203;исоб|Pastki hisob|Sub account
+181|settingPlus|Дополнительный настройка|&#1178;о'с&#1203;имc&#1203;а созламалар|Qo'shimcha sozlamalar|Additional setting
+181|protocol|Протокол|Протокол|Protokol|Protocol
+181|growth|Закрепить учетные записи ресурсов|Рэсурс &#1203;исобларини бирлас&#1203;тирис&#1203;|Resurs hisoblarini birlashtirish|Consolidate resource accounts
+181|btnChooseAction|Выполнить|Ижро этмо&#1179;|Ijro etmoq|Выполнить
+215|addBtn|Добавить|&#1178;ўшиш|Qo`shish|Add
+215|edit|Изменить|О'згарис&#1203;|O'zgarish|Change
+215|del|Удалить|О'c&#1203;ирмо&#1179;|O'chirmoq|Delete
+114|lock|Включить|Ё&#1179;мо&#1179;|Yoqmoq|Turn on
+114|unlock|Отключить|Ўчирмо&#1179;|O`chirmoq|Turn off
+114|card_list|По списку|Ро'ыхатга мувофи&#1179;|Ro'yxatga muvofiq|According to the list
+114|protocol|Протокол|Баённома|Bayonnoma|Protocol
+118|addBtn|Добавить|&#1178;ўшиш|Qo`shish|Add
+118|addLibor|Действующий процентной ставки|&#1202;озирги фоиз ставкаси|Hozirgi foiz stavkasi|Current interest rate
+121|btnSave|Сохранить|Са&#1179;лаш|Saqlash|Save
+121|sel_all|Отметить все|Барчасини белгилаш|Barchasini belgilash|Cancel all
+121|clear_all|Очистить все|Барчасини тозалаш|Barchasini tozalash|Clean all
+121|invert|Инвертировать|Ўрин алмаштирмо&#1179;|O`rin almashtirmoq|Invert
+180|save|Сохранить|Тэжас&#1203;|Tejash|Save
+180|manualSync|Ручная синхронизация класса качества|Сифатли синфни &#1179;о'лда синхронлас&#1203;тирис&#1203;|Sifatli sinfni qo'lda sinxronlashtirish|Manual synchronization of quality class
+180|btnProtocol|Протокол|Протокол|Protokol|Protocol
+161|deleteClaim|Закрепить цель кредита|Кредит ма&#1179;садини биркитиб &#1179;ўймо&#1179;|Kredit maqsadini birkitib qo`ymoq|Attach purpose of loan
+178|addBtn|Добавить|&#1178;ўшиш|Qo`shish|Add
+178|editBtn|Изменить|Ўзгартириш|O`zgartirish|Change
+178|delBtn|Удалить|Йў&#1179; &#1179;илиш|Yo`q qilish|Delete
+138|btnAdd|Добавить|&#1178;о'с&#1203;мо&#1179;|Qo'shmoq|Add
+138|btnEdit|Изменить|О'згарис&#1203;|O'zgarish|Change
+138|btnDel|Удалить|О'c&#1203;ирмо&#1179;|O'chirmoq|Delete
+122|operation>|Выберите операцию|Опэратсиыани танланг|Operatsiyani tanlang|Select the operation
+122|approveg|Утвердить|Ма'&#1179;улламо&#1179;|Ma'qullamoq|Approve
+122|approve|Утвердить|Ма'&#1179;улламо&#1179;|Ma'qullamoq|Approve
+122|denyg|Отклонить|Рад &#1179;илмо&#1179;|Rad qilmoq|Reject
+122|deny|Отклонить|Рад &#1179;илмо&#1179;|Rad qilmoq|Reject
+122|execute|Выполнить|Ижро этмо&#1179;|Ijro etmoq|Perform
+122|report|Отчет|&#1202;исобот|Hisobot|Report
+122|protocol|Протокол|Протокол|Protokol|Protocol
+149|actions|выбрать действие|&#1202;аракатни танланг|Harakatni tanlang|Choose an action
+149|add|Добавить|&#1178;о'с&#1203;мо&#1179;|Qo'shmoq|Add
+149|edit|Редактировать|Та&#1203;рирламо&#1179;|Tahrirlamoq|Edit
+149|del|Удалить|Учириш|O'chirish|Delete
+149|copy|Создать копию|Нусхасини ыаратинг|Nusxasini yarating|Create a copy
+149|setting|Настройка|Созлас&#1203;|Sozlash|Settings
+149|chooseAction|Выполнить|Ижро этмо&#1179;|Ijro etmoq|Perform
+149|showProtocol|Протокол|Баённома|Bayonnoma|Protocol
+157|add|Добавить|&#1178;ўшиш|Qo`shish|Add
+157|deleteAccount|Удалить|Ўзгартириш|O`zgartirish|Delete
+154|save|Сохранить|Са&#1179;лаш|Saqlash|Save
+154|btnHis|История|Тарих|Tarix|History
+159|btnAdd|Добавить|&#1178;ўшиш|Qo`shish|Add
+159|btnEdit|Изменить|Ўзгартириш|O`zgartirish|Edit
+159|btnDel|Удалить|Йў&#1179; &#1179;илиш|Yo`q qilish|Delete
+89|btnSave|Сохранить|Са&#1179;лаш|Saqlash|Save
+103|addForm|Добавить|&#1178;ўшиш|Qo`shish|Add
+103|change|Изменение|Узгартириш|O'zgartirish|Edit
+103|del|Удалить|О'c&#1203;ирмо&#1179;|O'chirmoq|Delete
+116|add|Добавить|&#1178;ўшиш|Qo`shish|Add
+116|delete|Удалить|Йў&#1179; &#1179;илиш|Yo`q qilish|Delete
+117|add_commission|Добавить|&#1178;ўшиш|Qo`shish|Add
+117|edit_commission|Изменить|Ўзгартириш|O`zgartirish|Change
+117|delete_commission|Удалить|Йў&#1179; &#1179;илиш|Yo`q qilish|Delete
+133|addBtn|Добавить|&#1178;ўшиш|Qo`shish|Add
+133|editBtn|Изменить|Ўзгартириш|O`zgartirish|Change
+133|viewBtn|Просмотр|Кўриш|Ko`rish|Review
+133|delBtn|Удалить|Йў&#1179; &#1179;илиш|Yo`q qilish|Delete
+172|editBtn|Изменить|Ўзгартириш|O`zgartirish|Change
+176|bSave|Сформировать|С&#1203;акл|Shakl|Form
+177|save|Сохранить|Са&#1179;лаш|Saqlash|Save
+160|btnsave|Сохранить|Са&#1178;лаш|SaQlash|Save
+160|btnEdit|Изменить субсчет|Илова &#1203;исобвара&#1171;ини ўзгартириш|Ilova hisobvarag`ini o`zgartirish|Change sub account
+64|add|Добавить|&#1178;ўшиш|Qo`shish|Add
+64|btnEdit|Изменить|Ўзгартириш|O`zgartirish|Change
+64|btnDelete|Удалить|Йў&#1179; &#1179;илиш|Yo`q qilish|Delete
+64|btnShowLog|История изменений|Ўзгаришлар тарихи|O`zgarishlar tarixi|History of changes
+64|tariff|Настройки заполнения процентных ставок|Фоиз ставкаларини тўлдириш созлашлари|Foiz stavkalarini to`ldirish sozlashlari|Settings filling in interest rates
+65|btnAdd|Добавить|&#1178;ўшиш|Qo`shish|Add
+65|btnEdit|Изменить|Ўзгартириш|O`zgartirish|Change
+65|btnDell|Прекратить|To'xtatilish|To'xtatilish|Discontinued
+65|btnDel|Удалить|Йў&#1179; &#1179;илиш|Yo`q qilish|Delete
+65|btnContract|Договор|Договор|Договор|Договор
+65|btnAddRecord|Внесение записи в ЗР как кредитор|Кредитор сифатида ГР га ёзув киритиш|Kreditor sifatida GR ga yozuv kiritish|Recording in SP as creditor
+65|btnseeHis|Просмотреть историю изменений|Узгаришлар тарихини куриш|O`zgarishlar tarixini ko`rish|See the changes log
+65|btnSeeInfo|ГУБДД МВД и Нотариус|Губддд Иc&#1203;ки ис&#1203;лар вазирлиги ва нотариал|Gubddd Ichki ishlar vazirligi va notarial|GUBDDD Ministry of Internal Affairs and notary
+999|add|Добавить|&#1178;о'с&#1203;мо&#1179;|Qo'shmoq|Add
+999|edit|Изменить|О'згарис&#1203;|O'zgarish|Change
+66|btnAdd|Добавить|&#1178;ўшиш|Qo`shish|Add
+66|btnEdit|Изменить|Ўзгартириш|O`zgartirish|Change
+66|btnDel|Удалить|Йў&#1179; &#1179;илиш|Yo`q qilish|Delete
+68|save|Сохранить|Са&#1179;лаш|Saqlash|Save
+68|change_log|История изменений|Ўзгаришлар тарихи|O`zgarishlar tarixi|History changes
+155|save|Сохранить|Са&#1179;лаш|Saqlash|Save
+155|protocol|Протокол|Баённома|Bayonnoma|Protocol
+170|save|Сохранить|Са&#1179;лаш|Saqlash|Save
+170|hist|История изменений|Ўзгаришлар тарихи|O`zgarishlar tarixi|History
+88|actions>|Действия по картам|Карталар устида амаллар|Kartalar ustida amallar|Operations on plastic cards
+88|pl_action|Действия по картам|Карталар устида амаллар|Kartalar ustida amallar|Operations on plastic cards
+88|add|Добавить|&#1178;о'с&#1203;мо&#1179;|Qo'shmoq|Add
+88|confirm_sms|Подтверждение с SMS|СМС билан тасди&#1179;лас&#1203;|SMS bilan tasdiqlash|Confirmation with SMS
+88|send_sms|Повторно отправить SMS|СМСларни ыана ыуборинг|SMSlarni yana yuboring|Send SMS again
+88|send_payment|Запрос на оплату|Запрос на оплату|Запрос на оплату|Запрос на оплату
+88|del|Удалить|О'c&#1203;ирмо&#1179;|O'chirmoq|Delete
+88|passive|Пассив|Пассив|Passiv|Passive
+88|active|Актив|Активлар|Aktivlar|Assets
+88|payments|Список оплаты|То'лов ро'ыхати|To'lov ro'yxati|List of payment
+88|protocol|Протокол оплаты|То'лов протоколи|To'lov protokoli|Payment protocol
+88|job_settings|Настройка Жоб|Созламалар з&#1203;об|Sozlamalar zhob|Settings Zhob
+88|redemption|Автопогашение|Автоматик-куыис&#1203;|Avtomatik-kuyish|Auto -burning
+88|btn_execute|Выполнить|Ижро этмо&#1179;|Ijro etmoq|Perform
+941|actions>|Действия по картам|Карталар устида амаллар|Kartalar ustida amallar|Operations on plastic cards
+941|pl_action|Действия по картам|Карталар устида амаллар|Kartalar ustida amallar|Operations on plastic cards
+941|add|Добавить|&#1178;о'с&#1203;мо&#1179;|Qo'shmoq|Add
+941|del|Удалить|О'c&#1203;ирмо&#1179;|O'chirmoq|Delete
+941|passive|Пассив|Пассив|Passiv|Passive
+941|active|Актив|Активлар|Aktivlar|Assets
+941|si_btn_execute|Выполнить|Ижро этмо&#1179;|Ijro etmoq|Perform
+71|save|Сохранить|Са&#1179;лаш|Saqlash|Save
+71|btnAnnuitet|Сохранить|Са&#1179;лаш|Saqlash|Save
+71|btnDebt|Изменения|О'згарис&#1203;лар|O'zgarishlar|Changes
+71|calc_graph|Рассчитать график|Жадвални &#1203;исоблаш|Jadvalni hisoblash|Colculate the schedule
+71|del_graph|Удалить график|Жадвални йў&#1179; &#1179;илиш|Jadvalni yo`q qilish|Delete schedule
+71|change_log|История изменений|Ўзгаришлар тарихи|O`zgarishlar tarixi|History
+71|print_graph|Печать|Босмалаш|Bosmalash|Print
+72|save|Сохранить|Са&#1179;лаш|Saqlash|Save
+72|calc_graph|Рассчитать график|Жадвални &#1203;исоблаш|Jadvalni hisoblash|Colculate the schedule
+72|get_calc|Посмотреть расчет|&#1202;исобни кўриш|Hisobni ko`rish|View account
+72|del_graph|Удалить график|Жадвални йў&#1179; &#1179;илиш|Jadvalni yo`q qilish|Delete the schedule
+72|change_log|История изменений|Ўзгаришлар тарихи|O`zgarishlar tarixi|History
+72|print_graph|Печать|Босмалаш|Bosmalash|Print
+162|save|Сохранить|Са&#1179;лаш|Saqlash|Save
+162|biznes_plan|Бизнес план|Бизнэс-рэжа|Biznes-reja|Business plan
+162|log|История изменений|Ўзгаришлар тарихи|O`zgarishlar tarixi|History
+162|print|Печать|Босмалаш|Bosmalash|Print
+74|submit_GO|Отправить в ГО|Т&#1203; га ыуборинг|Th ga yuboring|Send in th
+74|return|Отменить отправку в ГО|Бош банкга юборишни бекор &#1179;илиш|Bosh bankga yuborishni bekor qilish|Not sent
+74|submit|Утвердить|Тасди&#1179;лаш|Tasdiqlash|Confirm
+74|agr_submit|Утвердить|Тасди&#1179;лаш|Tasdiqlash|Approved
+74|request_limit|Запрос лимита|Лимит сўрови|Limit so`rovi|Request limit
+74|fldAccounts|Ссудные счета|Ссуда &#1203;исобвара&#1179;лари|Ssuda hisobvaraqlari|Loan accounts
+74|fldRates|Процентные ставки|Фоиз ставкалари|Foiz stavkalari|Interest rates
+74|print|Печать|Босмалаш|Bosmalash|Print
+75|save|Пролонгировать|Муддатини узайтирмо&#1179;|Muddatini uzaytirmoq|Roll over
+75|add_decide|Прикрепить решение|&#1178;арорни бириктириш|Qarorni biriktirish|Attach solution
+75|graph_history|История графика|Жадвал тарихи|Jadval tarixi|History of graph
+75|prolong_history|История пролонгации|Муддатини узайтириш тарихи|Muddatini uzaytirish tarixi|The history of prolongation
+75|refresh|Обновить|Янгилаш|Yangilash|Update
+76|save|Выполнить|Бажариш|Bajarish|Run
+76|reset|Сброс|Чи&#1179;ариб юбориш|Chiqarib yuborish|Reset
+76|protocol|Протокол|Баённома|Bayonnoma|Protocol
+78|submit|Автопогашение всех кредитов по графику|Барc&#1203;а крэдитларни бэлгиланган жадвалга автоматлас&#1203;тирис&#1203;|Barcha kreditlarni belgilangan jadvalga avtomatlashtirish|Automation of all loans on schedule
+78|close|Закрыть|Са&#1179;лаш|Saqlash|Close
+125|btnProtocol|Протокол|Баённома|Bayonnoma|Protocol
+120|bttnAdd|Добавить|&#1178;ўшиш|Qo`shish|Add
+120|btnAdd|Добавить|&#1178;ўшиш|Qo`shish|Add
+120|btnView|Просмотр|Кўриш|Ko`rish|Review
+120|btnDel|Удалить|Йў&#1179; &#1179;илиш|Yo`q qilish|Delete
+120|btnConfirm|Действия|Действия|Действия|Действия
+120|bttnChangeLog|История изменений|Ўзгаришлар тарихи|O`zgarishlar tarixi|History of changing
+260|submit|Обновить всех|Барc&#1203;ани ыангиланг|Barchani yangilang|Update everyone
+260|btnRefreshBranch|Обновить выбранных|Танланганларни ыангиланг|Tanlanganlarni yangilang|Update the selected
+185|state_partners|Статусы партнеров|&#1202;амкорларнинг &#1203;олати|Hamkorlarning holati|Statuses of partners
+139|btnAdd|Добавить|&#1178;о'с&#1203;мо&#1179;|Qo'shmoq|Add
+139|btnEdit|Изменить|О'згарис&#1203;|O'zgarish|Edit
+139|btnDel|Удалить|О'c&#1203;ирмо&#1179;|O'chirmoq|Delete
+139|btnProtocol|Протокол|Протокол|Protokol|Protocol
+139|btnHis|История|&#1202;икоыа|Hikoya|Story
+257|btnAdd|Добавить|&#1178;о'с&#1203;мо&#1179;|Qo'shmoq|Add
+257|btnEdit|Изменить|О'згарис&#1203;|O'zgarish|Edit
+257|btnDel|Удалить|О'c&#1203;ирмо&#1179;|O'chirmoq|Delete
+257|btnProtocol|Протокол|Протокол|Protokol|Protocol
+257|btnHis|История|&#1202;икоыа|Hikoya|Story
+940|addBtn|Синхронизировать|Синхронизировать|Синхронизировать|Синхронизировать
+167|btnAuthorization|Авторизация кредита|Кредитни ма&#1179;улламо&#1179;|Kreditni maqullamoq|Credit authorization
+22|action>|-- Выберите действия --|-- Выберите действия --|-- Выберите действия --|-- Выберите действия --
+22|client_acc_bal|Основные показатели клиента|Мижознинг асосиы ко'рсаткиc&#1203;лари|Mijozning asosiy ko'rsatkichlari|The main indicators of the client
+22|si_client_acc_bal|Основные показатели клиента|Мижознинг асосиы ко'рсаткиc&#1203;лари|Mijozning asosiy ko'rsatkichlari|The main indicators of the client
+22|si_client_fin_bal|Финансовые показатели клиента|Мижознинг молиыавиы ко'рсаткиc&#1203;лари|Mijozning moliyaviy ko'rsatkichlari|Client's financial indicators
+22|si_class_cred|Основные коэффициенты кредитоспособности|Крэдит либосининг асосиы коэффитсиэнтлари|Kredit libosining asosiy koeffitsientlari|The main coefficients of creditworthiness
+22|btnProcess|Выполнить|Бажариш|Bajarish|Implement
+164|btnInfo|Инфо|Операциялар йў&#1179;|Operatsiyalar yo`q|No operation
+164|btnProtocol|Протокол|Операциялар йў&#1179;|Operatsiyalar yo`q|No operation
+164|btnOperation|Просмотр кредитных операций|Операциялар йў&#1179;|Operatsiyalar yo`q|No operation
+165|btnSave|Сохранить|Са&#1179;лаш|Saqlash|Save
+165|btnHis|Протокол|Баённома|Bayonnoma|Protocol
+166|btnSverka|Выполнить|Мерчант|Merchant|Merchant
+168|btnProtocol|Протокол|Баённома|Bayonnoma|Protocol
+168|btnRePay|Повторно оплатить|&#1178;айтадан тўлаш|Qaytadan to`lash|Re-pay
+300|reportBtn|Перезагрузить|Перезагрузить|Перезагрузить|Перезагрузить
+253|action>|-- Выберите действия --|-- Выберите действия --|-- Выберите действия --|-Choose actions-
+253|add|Добавить|&#1178;ўшиш|Qo`shish|Add
+253|edit|Изменить|Ўзгартириш|O`zgartirish|Change
+253|del|Удалить|Йў&#1179; &#1179;илиш|Yo`q qilish|Delete
+253|confirm|Подтвердить|Тасди&#1179;ламо&#1179;|Tasdiqlamoq|Confirm
+253|protocol|Протокол|Протокол|Protokol|Protocol
+253|execute|Выполнить|Ижро этмо&#1179;|Ijro etmoq|Perform
+173|addBtn|Добавить|&#1178;ўшиш|Qo`shish|Add
+173|editBtn|Изменить|Ўзгартириш|O`zgartirish|Change
+173|delBtn|Удалить|Йў&#1179; &#1179;илиш|Yo`q qilish|Delete
+1193|add|Добавить|&#1178;ўшиш|Qo`shish|Add
+1193|edit|Изменить|Ўзгартириш|O`zgartirish|Edit
+1193|delete|Удалить|Йў&#1179; &#1179;илиш|Yo`q qilish|Delete
+1193|btnLoadFile|Загрузка из файла|Файлдан юклаш|Fayldan yuklash|Loading from file
+200|add|Добавить|&#1178;ўшиш|Qo`shish|Add
+200|edit|Изменить|Ўзгартириш|O`zgartirish|Edit
+200|delete|Удалить|Йў&#1179; &#1179;илиш|Yo`q qilish|Delete
+200|history|История|Тарихи|Tarixi|History
+217|btnAdd|Добавить|Кушиш|Qo'shish|Add
+217|btnEdit|Изменить|Узгартириш|O'zgartirish|Edit
+217|btnDel|Удалить|Учириш|O'chirish|Delete
+217|btnProtocol|Протокол|Баённома|Bayonnoma|Protocol
+218|btnAdd|Добавить|Кушиш|Qo'shish|Add
+218|btnEdit|Изменить|Узгартириш|O'zgartirish|Edit
+218|btnDel|Удалить|Учириш|O'chirish|Delete
+220|btnAdd|Добавить|Кушиш|Qo'shish|Add
+220|btnEdit|Изменить|Узгартириш|O'zgartirish|Edit
+220|btnDel|Удалить|Учириш|O'chirish|Delete
+927|btnAdd|Добавить|Кушиш|Qo'shish|Add
+927|btnEdit|Изменить|Узгартириш|O'zgartirish|Edit
+927|btnDel|Удалить|Учириш|O'chirish|Delete
+401|btnAdd|Добавить|&#1178;ўшиш|Qo`shish|Add
+401|btnEdit|Изменить|Узгартириш|O'zgartirish|Edit
+401|btnDel|Удалить|Йў&#1179; &#1179;илиш|Yo`q qilish|Delete
+401|btnStatus|Активный / Пассивный|Фаол / пассив|Faol / passiv|Active / passive
+1210|btnAdd|Добавить|Кушиш|Qo'shish|Add
+1210|btnEdit|Изменить|Узгартириш|O'zgartirish|Edit
+1210|btnDel|Удалить|Учириш|O'chirish|Delete
+970|btnAdd|Добавить|Кушиш|Qo'shish|Add
+970|btnEdit|Изменить|Узгартириш|O'zgartirish|Edit
+970|btnDel|Удалить|Учириш|O'chirish|Delete
+970|btnProtocol|Протокол|Баённома|Bayonnoma|Protocol
+963|btnAdd|Добавить|&#1178;о'с&#1203;мо&#1179;|Qo'shmoq|Add
+963|btnEdit|Изменить|Узгартириш|O'zgartirish|Edit
+963|btnDel|Удалить|Учириш|O'chirish|Delete
+961|btnAdd|Добавить|&#1178;о'с&#1203;мо&#1179;|Qo'shmoq|Add
+961|btnEdit|Изменить|Узгартириш|O'zgartirish|Edit
+961|btnDel|Удалить|Учириш|O'chirish|Delete
+964|btnAdd|Добавить|Кушиш|Qo'shish|Add
+964|btnDel|Удалить|Учириш|O'chirish|Delete

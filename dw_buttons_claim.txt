@@ -1,0 +1,15 @@
+187|actions|Действия|Амаллар|Amallar|Operations
+187|group_blank_detail|Детали анкет(Группа)|Анкета тафсилотлари (Гуру?)|Anketa tafsilotlari (Guruh)|Questionnaire details (Group)
+187|op2|Основные показатели клиента(Группа)|Мижознинг асосий кўрсаткичлари (Гуру?)|Mijozning asosiy ko‘rsatkichlari (Guruh)|Main Client Indicators (Group)
+187|guarantor_acc_bal|Основные показатели поручителя|Кафилнинг асосий кўрсаткичлари|Kafilning asosiy ko‘rsatkichlari|Guarantor's main indicators
+187|guarantor_fin_bal|Финансовые показатели поручителя|Кафилнинг молиявий кўрсаткичлари|Kafilning moliyaviy ko‘rsatkichlari|Financial indicators of the guarantor
+187|workload_emp|Загруженность сотрудников|Ходимларнинг бандлиги|Xodimlarning bandligi|Employee workload
+187|related|Связанные компании|Ало?адор компаниялар|Aloqador kompaniyalar|Related companies
+187|blank_detail|Детали анкет|Анкета тафсилотлари|Anketa tafsilotlari|Questionnaire details
+187|protocol|Протокол|Протокол|Protokol|Protocol
+187|all_protocol|Все анкеты|Барча анкеталар|Barcha anketalar|All questionnaires
+187|passport_pro|Паспорт проекта|Лойи?а паспорти|Loyiha pasporti|Project Passport
+187|report_variables|Ввод данных для Паспорта проекта|Лойи?а паспорти учун маълумотларни киритиш|Loyiha pasporti uchun ma’lumotlarni kiritish|Add data for project passport
+187|client_acc_bal|Основные показатели клиента|Мижознинг асосий кўрсаткичлари|Mijozning asosiy ko‘rsatkichlari|Key customer metrics
+187|client_fin_bal|Финансовые показатели клиента|Мижознинг молиявий кўрсаткичлари|Mijozning moliyaviy ko‘rsatkichlari|Client's financial performance
+187|class_cred|Основные коэффициенты кредитоспособности|Кредитга лаё?атлиликнинг асосий коэффициентлари|Kreditga layoqatlilikning asosiy koeffitsiyentlari|Key creditworthiness ratios
