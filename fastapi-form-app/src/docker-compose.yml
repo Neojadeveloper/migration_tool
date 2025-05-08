@@ -1,0 +1,9 @@
+services:
+  fastapi-app:
+    build: .
+    container_name: matrix-fastapi-app
+    ports:
+      - "8001:8000"
+    volumes:
+      - .:/app
+    restart: unless-stopped

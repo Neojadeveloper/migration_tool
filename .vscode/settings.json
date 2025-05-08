@@ -1,0 +1,9 @@
+{
+    "[sql]": {
+        "files.encoding": "windows1251" // Default for JSP files
+    },
+    "[jsp]": {
+        "files.encoding": "windows1251" // Default for JSP files
+    },
+    "files.encoding": "utf8",
+}

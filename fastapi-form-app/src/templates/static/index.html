@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Matix and Lang4</title>
+    <link rel="stylesheet" href="static/style.css">
+</head>
+<style>
+    .footer-text {
+        font-family: Arial, sans-serif;
+        font-size: 16px;
+    }
+
+    .neon-name {
+        font-weight: bold;
+        text-shadow: 0 0 5px #0ff, 0 0 10px #0ff, 0 0 15px #0ff;
+        animation: glow 2s ease-in-out infinite alternate;
+    }
+</style>
+
+<body>
+    <div class="container">
+        <header>
+            <h1>Matrix and Lang4 for FB</h1>
+        </header>
+
+        <main>
+            <div class="upload-container">
+                <h2>Upload .jsp File</h2>
+                <form id="upload-form" enctype="multipart/form-data">
+                    <div class="file-input-container">
+                        <input type="file" id="file-input" accept=".jsp" required>
+                        <label for="file-input" class="file-label">
+                            <span class="file-icon">📁</span>
+                            <span class="file-text">Choose a .jsp file</span>
+                        </label>
+                        <span id="file-name" class="file-name"></span>
+                    </div>
+                    <button type="submit" class="upload-btn">Upload</button>
+                </form>
+            </div>
+
+            <!-- Processing Options Modal -->
+            <div id="options-modal" class="modal">
+                <div class="modal-content">
+                    <h2>Choose Processing Option</h2>
+                    <p>Select an action to perform on the uploaded file:</p>
+                    <div class="options-container">
+                        <button id="convert-btn" class="option-btn">To fill the language</button>
+                        <button id="script-btn" class="option-btn">Make Script for Marix</button>
+                    </div>
+                    <button id="cancel-options" class="cancel-btn">Cancel</button>
+                </div>
+            </div>
+
+            <!-- Progress Modal -->
+            <div id="progress-modal" class="modal">
+                <div class="modal-content">
+                    <h2>Processing File</h2>
+                    <p id="progress-message">Starting process...</p>
+                    <div class="progress-container">
+                        <div id="progress-bar" class="progress-bar"></div>
+                    </div>
+                    <p id="progress-percent">0%</p>
+                </div>
+            </div>
+
+            <!-- Error Modal -->
+            <div id="error-modal" class="modal">
+                <div class="modal-content">
+                    <h2>Error</h2>
+                    <p id="error-message">An error occurred.</p>
+                    <button id="error-close" class="close-btn">Close</button>
+                </div>
+            </div>
+        </main>
+
+        <footer>
+            <p class="footer-text">
+                &copy; Matrix and Lang4 (Powered by
+                <span class="neon-name">Azizbek Rahimov</span>,
+                <span class="neon-name">Asliddin Husanov</span>)
+            </p>
+        </footer>
+
+    </div>
+
+    <script src="static/script.js"></script>
+</body>
+
+</html>
